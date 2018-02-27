@@ -1,12 +1,12 @@
 {
-    "name": "laravel/spark-installer",
-    "description": "Command line installer for Laravel Spark.",
+    "name": "blaisedufrain/spark-installer",
+    "description": "Custom installer for spark",
     "keywords": ["spark", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Blaise DuFrain",
+            "email": "bdufrain89@gmail.com"
         }
     ],
     "autoload": {
